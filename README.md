@@ -1,7 +1,10 @@
-# Hi there 👋<br />
+# Hi there 👋
+<img src="https://github.com/happykai1/happykai1/blob/c3ee1e09541e1e07a9997071ba73ec660f711d40/banner.png" />
+
 I'm Natkitta Apiromkasem from Thailand<br />
+
 ------
-**📃 I'm currently learning:**<br />
+**📃 I'm currently learning:**<br /><br />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
@@ -15,5 +18,7 @@ I'm Natkitta Apiromkasem from Thailand<br />
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 
 ------
-Feel free to contact me 😋
+Feel free to contact me 😋<br />
 
+<a href="https://github.com/happykai1"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/natkitta-apiromkasem-127973198/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
