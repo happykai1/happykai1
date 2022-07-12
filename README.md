@@ -1,3 +1,3 @@
-Hi there 👋
-I'm Natkitta Apiromkasem from Thailand
+Hi there 👋<br />
+I'm Natkitta Apiromkasem from Thailand<br />
 **Things I code with**
